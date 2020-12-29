@@ -13,7 +13,7 @@ import java.io.*;
 //import java.text.*;
 
 //import java.lang.*;
-//test sync 8
+//test sync 9
 import java.util.*;
 
 import com.timesten.jdbc.TimesTenConnection;
